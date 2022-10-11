@@ -9,6 +9,7 @@ public class Comment {
         }
 
         System.out.println("selamlar ");
+        System.out.println("test");
 
 
     }
