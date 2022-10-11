@@ -8,5 +8,7 @@ public class Comment {
             System.out.println("Merhaba"+i);
         }
 
+        System.out.println("selamlar");
+
     }
 }
